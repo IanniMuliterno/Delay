@@ -6,3 +6,6 @@ Leonardo S Bastos, Theodoros Economou, Marcelo F C Gomes, Daniel A M Villela, Fl
 
 An earlier version of the manuscript is available on [arxiv](https://arxiv.org/abs/1709.09150).
 
+## nota: trabalho veio ao meu conhecimento atraves do Webinar | EBDS 2021 - III Encontro Brasileiro de Data Science, que levou ao seguinte artigo e dash :
+https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8303
+https://lsbastos.shinyapps.io/nowcasting/
